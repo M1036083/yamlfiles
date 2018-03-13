@@ -16,4 +16,4 @@ spec:
         image: docker7399/helloworld:latest
         imagePullPolicy: Always
         ports:
-        - containerPort: 9000
+        - containerPort: 80
